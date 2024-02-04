@@ -40,11 +40,11 @@ CRUD - Create Read Update Delete
 
 9.  DELETE Request (DELETE)
 
-    [delete](https://github.com/hijackhim/CRUD-Serverless-API/assets/105789918/b2bd238c-15fd-4182-8d25-65d2ba20c6bf)
+    ![delete](https://github.com/hijackhim/CRUD-Serverless-API/assets/105789918/b2bd238c-15fd-4182-8d25-65d2ba20c6bf)
 
 11.  POST Request (CREATE)
 
- [create](https://github.com/hijackhim/CRUD-Serverless-API/assets/105789918/2c96021a-d4cd-4c78-865b-612f63df18da)
+ ![create](https://github.com/hijackhim/CRUD-Serverless-API/assets/105789918/2c96021a-d4cd-4c78-865b-612f63df18da)
 
 12.  Check ouput in Dynamodb
   
